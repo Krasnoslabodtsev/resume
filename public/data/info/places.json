@@ -69,11 +69,51 @@
         }
     },
 
+    "altgtu": {
+        "logoUrl": "images/places/logo-altgtu.png",
+        "faIcon": "fa fa-house-laptop",
+        "locales": {
+            "en": {"name": "Altai State Technical University"}
+        }
+    },
+
     "uxStudio": {
         "logoUrl": "images/places/logo-ux-studio.png",
         "faIcon": "fas fa-paint-brush",
         "locales": {
             "en": {"name": "UX Masters Studio"}
+        }
+    },
+
+    "bell": {
+        "logoUrl": "images/places/experience/bell.png",
+        "faIcon": "fas fa-paint-brush",
+        "locales": {
+            "en": {"name": "Bell Integrator"}
+        }
+    },
+
+    "forbank": {
+        "logoUrl": "images/places/experience/forbank.png",
+        "faIcon": "fas fa-paint-brush",
+        "locales": {
+            "en": {"name": "АО КБ \"ФорБанк\""}
+        }
+    },
+
+    "mvd": {
+        "logoUrl": "images/places/experience/mvd.svg",
+        "faIcon": "fas fa-paint-brush",
+        "locales": {
+            "en": {"name": "Главное управление МВД РФ по АК"}
+        }
+    },
+
+    "t-bank": {
+        "logoUrl": "images/places/experience/t-bank.png",
+        "faIcon": "fas fa-paint-brush",
+        "locales": {
+            "en": {"name": "Т-Банк"}
         }
     }
 }

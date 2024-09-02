@@ -26,7 +26,7 @@
                             :class="navigation.isSidebarExpanded() ? '' : 'mb-3'"/>
 
             <!-- Credits -->
-            <div class="nav-sidebar-footer-credits text-2 mt-2 pt-1 mb-2 mb-xxl-3">
+            <div class="nav-sidebar-footer-credits text-1 mt-1 pt-2 mb-2 mb-xxl-3">
                 <span v-html="profileData['locales']['credits']"/>
             </div>
         </div>
@@ -88,9 +88,7 @@ const _onLinkClicked = (section) => {
     display: flex;
     flex-direction: column;
 
-    height: 100vh;
-    height: 100svh;
-    width: $nav-sidebar-column-size;
+  width: $nav-sidebar-column-size;
     overflow: auto;
     z-index: 99;
 

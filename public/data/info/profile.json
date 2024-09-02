@@ -1,84 +1,82 @@
 {
-    "name": "Jonas Einstein",
-    "profilePictureUrl": "images/pictures/avatar.png",
+    "name": "Краснослабодцев Роман",
+    "profilePictureUrl": "images/pictures/avatar.jpg",
 
     "locales": {
         "en": {
-            "credits": "Designed by <strong><a class='light' href='https://github.com/ryanbalieiro'>Ryan Balieiro</a></strong>",
-            "role": "UX Designer"
+            "credits": "Designed by <a class='light' href='https://github.com/ryanbalieiro'>Ryan Balieiro</a>",
+            "role": "Senior Java dev"
         },
 
-        "es": {
-            "credits": "Hecho por <strong><a class='light' href='https://github.com/ryanbalieiro'>Ryan Balieiro</a></strong>",
-            "role": "Designer de UX"
-        },
-
-        "fr": {
-            "credits": "Conçu par <strong><a class='light' href='https://github.com/ryanbalieiro'>Ryan Balieiro</a></strong>",
-            "role": "Designer UX"
-        },
-
-        "zh": {
-            "credits": "设计：<strong><a class='light' href='https://github.com/ryanbalieiro'>Ryan Balieiro</a></strong>",
-            "role": "用户体验设计师"
+        "ru": {
+            "credits": "Дизайн <a class='light' href='https://github.com/ryanbalieiro'>Ryan Balieiro</a>",
+            "role": "Senior Java dev"
         }
     },
 
     "contact": {
         "address": {
             "id": "address",
-            "value": "123 Main Street, Cupertino, CA 01234",
-            "valueShort": "Cupertino, CA 01234",
+            "value": "Москва, метро Шаболовская",
+            "valueShort": "Москва, метро Шаболовская",
             "faIcon": "fa-solid fa-city",
             "href": null
         },
 
         "email": {
             "id": "email",
-            "value": "jonas.einstein@genius.com",
-            "valueShort": "jonas.einstein@genius.com",
+            "value": "roma00712@gmail.com",
+            "valueShort": "roma00712@gmail.com",
             "faIcon": "fa-solid fa-envelope",
-            "href": "mailto:jonas.einstein@genius.com"
+            "href": "mailto:roma00712@gmail.com"
         },
 
-        "facebook": {
-            "id": "facebook",
-            "value": "Jonas Einstein",
-            "valueShort": "J. Einstein",
-            "faIcon": "fa-brands fa-facebook",
-            "href": "https://facebook.com"
+        "vk": {
+            "id": "vk",
+            "faIcon": "fa-brands fa-vk",
+            "value": "vk.com/rkrasnoslabodtsev",
+            "valueShort": "vk.com/rkrasnoslabodtsev",
+            "href": "https://vk.com/rkrasnoslabodtsev"
         },
 
         "github": {
             "id": "github",
-            "value": "@jonas.einstein.official",
-            "valueShort": "@jonas.einstein.official",
+            "value": "github.com/Krasnoslabodtsev",
+            "valueShort": "github.com/Krasnoslabodtsev",
             "faIcon": "fa-brands fa-github",
-            "href": "https://github.com"
+            "href": "https://github.com/Krasnoslabodtsev"
         },
 
         "instagram": {
             "id": "instagram",
-            "value": "@jonas.einstein.official",
-            "valueShort": "@jonas.einstein.official",
+            "value": "true.roman_",
+            "valueShort": "true.roman_",
             "faIcon": "fa-brands fa-instagram",
-            "href": "https://instagram.com"
+            "href": "https://www.instagram.com/true.roman_"
         },
 
         "linkedin": {
             "id": "linkedin",
-            "value": "@jonas.einstein.official",
-            "valueShort": "@jonas.einstein.official",
+            "value": "www.linkedin.com/in/roman-krasnoslabodtsev",
+            "valueShort": "www.linkedin.com/in/roman-krasnoslabodtsev",
             "faIcon": "fa-brands fa-linkedin",
-            "href": "https://linkedin.com"
+            "href": "https://www.linkedin.com/in/roman-krasnoslabodtsev"
         },
 
         "phone": {
             "id": "phone",
-            "value": "+1 (123) 456-7890",
-            "valueShort": "(123) 456-7890",
+            "value": "+7 (923) 649-5621",
+            "valueShort": "+7 (923) 649-5621",
             "faIcon": "fa-solid fa-phone",
-            "href": "tel:1234567890"
+            "href": "tel:+79236495621"
+        },
+
+        "telegram": {
+            "id": "telegram",
+            "value": "@nullptr12",
+            "valueShort": "@nullptr12",
+            "faIcon": "fa-brands fa-telegram",
+            "href": "https://t.me/nullptr12"
         }
     }
 }
