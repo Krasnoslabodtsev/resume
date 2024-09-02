@@ -1,0 +1,25 @@
+{
+    "locales": {
+        "en": {
+            "title": "<span class='text-primary'>Contact</span> Me",
+            "description": "Please don't hesitate to get in touch with me whenever you feel the need!",
+            "subtitle": "Or...",
+            "subtitleDescription": "If you prefer, you can reach out to me through the following options:"
+        },
+        "ru": {
+            "title": "<span class='text-primary'>Свяжитесь со мной</span>",
+            "description": "Приоритетный способ связи - telegram",
+            "subtitle": "Или...",
+            "subtitleDescription": "Если хотите, вы можете связаться со мной через следующие варианты:"
+        }
+    },
+
+    "items": [
+        "@link{profile.contact.telegram}",
+        "@link{profile.contact.phone}",
+        "@link{profile.contact.email}",
+        "@link{profile.contact.linkedin}",
+        "@link{profile.contact.vk}",
+        "@link{profile.contact.instagram}"
+    ]
+}

@@ -1,0 +1,28 @@
+{
+  "locales": {
+    "en": {
+      "welcome": "Welcome to my <span class='text-primary'>Resume!</span>",
+      "welcomeShort": "Welcome!",
+      "bio": "Software Developer with Specialized Education (Graduated with honors). Extensive Hands-on Experience in Development and Management.<br><br>As member of a systems integrator, I've worked on various projects with different clients and requirements.<br><br>I am always eager to learn new things and improve my skills. On every project, I become an indispensable team member, deeply immersing myself in the business domain, accurately estimating timelines, and selecting the best implementation technologies.<br><br>Unfortunately, the market often presents challenges with poor code quality, unstable architectures, and a lack of clear SLAs. Hire me, and I'll fix this situation :)<br><br>About Me: Perfectionist, programming enthusiast, traveler, fan of Fowler and Kleppmann. I support SRE, profile JVM, and implement AI."
+    },
+    "ru": {
+      "welcome": "Добро пожаловать в мое <span class='text-primary'>резюме!</span>",
+      "welcomeShort": "Добро пожаловать!",
+      "bio": "Программист-разработчик, профильное образование (2 красных диплома - бакалавриат и магистратура). Богатый боевой опыт разработки и управления. Хорошие архитектурные компетенции. В рамках интегратора работал на разных проектах с различными заказчиками и требованиями.<br><br>Всегда стремлюсь к изучению нового и повышению своих компетенций. На каждом проекте становлюсь незаменимым сотрудником, глубоко погружаюсь в бизнес-домен, грамотно оцениваю сроки, выбираю наилучшие технологии реализации.<br><br> Перфекционист, фанат программирования, путешественник, любитель Фауллера и Клепмана. Помогаю sre, профилирую jvm, внедряю ai."
+    }
+  },
+  "items": {
+    "socialCircles": [
+      "@link{profile.contact.instagram}",
+      "@link{profile.contact.vk}",
+      "@link{profile.contact.linkedin}",
+      "@link{profile.contact.github}",
+      "@link{profile.contact.telegram}"
+    ],
+    "contactListItems": [
+      "@link{profile.contact.address}",
+      "@link{profile.contact.email}",
+      "@link{profile.contact.phone}"
+    ]
+  }
+}

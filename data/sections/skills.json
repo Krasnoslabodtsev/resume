@@ -1,0 +1,240 @@
+{
+    "locales": {
+        "en": {
+            "title": "<span class='text-primary'>Skill</span> Set",
+            "description": "Exploring the diverse range of skills I've acquired and developed:"
+        },
+        "ru": {
+            "title": "Набор <span class='text-primary'>Навыков</span>",
+            "description": ""
+        }
+    },
+
+    "subcategories": [
+        {
+            "id": "abilities",
+            "type": "grid",
+            "progress": null,
+            "faIcon": "fa-solid fa-square",
+            "locales": {
+                "en": {"title": null},
+                "ru": {"title": null}
+            }
+        },
+
+        {
+            "id": "programming",
+            "type": "grid",
+            "progress": "number",
+            "faIcon": "fa fa-code",
+            "locales": {
+                "en": {"title": "Programming"},
+                "ru": {"title": "Программирование"}
+            }
+        },
+
+        {
+            "id": "languages",
+            "type": "list",
+            "progress": {
+                "0": "beginner",
+                "20": "rookie",
+                "40": "intermediate",
+                "60": "advanced",
+                "80": "fluent",
+                "100": "native"
+            },
+            "faIcon": "fa fa-language",
+            "locales": {
+                "en": {"title": "Languages"},
+                "ru": {"title": "Языки"}
+            }
+        }
+    ],
+
+    "items": {
+        "abilities": [
+            {
+                "imageIconUrl": null,
+                "faIcon": "fas fa-layer-group",
+                "value": null,
+                "locales": {
+                    "en": {
+                        "title": "Microservices",
+                        "description": "Expert in developing scalable and maintainable microservices architecture."
+                    },
+                    "ru": {
+                        "title": "Микросервисы",
+                        "description": "Эксперт в разработке масштабируемой и поддерживаемой микросервисной архитектуры."
+                    }
+                }
+            },
+
+            {
+                "imageIconUrl": null,
+                "faIcon": "fas fa-cogs",
+                "value": null,
+                "locales": {
+                    "en": {
+                        "title": "API Development",
+                        "description": "Proficient in designing and implementing robust RESTful APIs."
+                    },
+                    "ru": {
+                        "title": "Разработка API",
+                        "description": "Опыт в проектировании и внедрении надежных RESTful API."
+                    }
+                }
+            },
+
+            {
+                "imageIconUrl": null,
+                "faIcon": "fas fa-database",
+                "value": null,
+                "locales": {
+                    "en": {
+                        "title": "Database Management",
+                        "description": "Skilled in optimizing and managing PostgreSQL databases."
+                    },
+                    "ru": {
+                        "title": "Управление Базами Данных",
+                        "description": "Опыт в оптимизации и управлении различными RDBMS и NoSQL-хранилищами."
+                    }
+                }
+            },
+
+            {
+                "imageIconUrl": null,
+                "faIcon": "fas fa-cloud",
+                "value": null,
+                "locales": {
+                    "en": {
+                        "title": "Cloud Integration",
+                        "description": "Experience in deploying and scaling applications on cloud platforms."
+                    },
+                    "ru": {
+                        "title": "Облачные решения",
+                        "description": "Развертывание и масштабирование приложений на облачных платформах."
+                    }
+                }
+            },
+
+            {
+                "imageIconUrl": null,
+                "faIcon": "fas fa-vial",
+                "value": null,
+                "locales": {
+                    "en": {
+                        "title": "Unit Testing",
+                        "description": "Expert in writing and executing unit tests to ensure code quality."
+                    },
+                    "ru": {
+                        "title": "Юнит-Тестирование",
+                        "description": "Эксперт в написании и выполнении юнит-тестов для обеспечения качества кода."
+                    }
+                }
+            },
+            {
+                "imageIconUrl": null,
+                "faIcon": "fas fa-project-diagram",
+                "value": null,
+                "locales": {
+                    "en": {"title": "Project Management", "description": "Experience leading Agile teams and managing complex projects."},
+                    "ru": {"title": "Управление Проектами", "description": "Опыт управления командами по Agile и сложными проектами."}
+                }
+            },
+            {
+                "imageIconUrl": null,
+                "faIcon": "fas fa-users",
+                "value": null,
+                "locales": {
+                    "en": {"title": "Team Leadership", "description": "Proven track record in leading development teams to success."},
+                    "ru": {"title": "Лидерство в Команде", "description": "Успешный опыт руководства командами разработчиков."}
+                }
+            }
+        ],
+
+        "programming": [
+            {
+                "imageIconUrl": null,
+                "faIcon": "fab fa-java",
+                "value": 100,
+                "locales": {
+                    "en": {"title": "Java", "description": "Experience Time: 10+ years"},
+                    "ru": {"title": "Java", "description": "Стаж: 10+ лет"}
+                }
+            },
+
+            {
+                "imageIconUrl": null,
+                "faIcon": "fas fa-leaf",
+                "value": 95,
+                "locales": {
+                    "en": {"title": "Spring Framework", "description": "Experience Time: 8 years"},
+                    "ru": {"title": "Spring Framework", "description": "Стаж: 8 лет"}
+                }
+            },
+
+            {
+                "imageIconUrl": null,
+                "faIcon": "fas fa-database",
+                "value": 85,
+                "locales": {
+                    "en": {"title": "PostgreSQL", "description": "Experience Time: 5 years"},
+                    "ru": {"title": "PostgreSQL", "description": "Стаж: 5 лет"}
+                }
+            },
+
+            {
+                "imageIconUrl": null,
+                "faIcon": "fas fa-box",
+                "value": 75,
+                "locales": {
+                    "en": {"title": "Docker", "description": "Experience Time: 3 years"},
+                    "ru": {"title": "Docker", "description": "Стаж: 3 года"}
+                }
+            },
+
+            {
+                "imageIconUrl": null,
+                "faIcon": "fas fa-stream",
+                "value": 70,
+                "locales": {
+                    "en": {"title": "Kafka", "description": "Experience Time: 3 years"},
+                    "ru": {"title": "Kafka", "description": "Стаж: 3 года"}
+                }
+            },
+
+            {
+                "imageIconUrl": null,
+                "faIcon": "fas fa-magnifying-glass",
+                "value": 90,
+                "locales": {
+                    "en": {"title": "Hibernate ORM", "description": "Experience Time: 5 years"},
+                    "ru": {"title": "Hibernate ORM", "description": "Стаж: 5 лет"}
+                }
+            }
+        ],
+
+        "languages": [
+            {
+                "imageIconUrl": "images/flags/en.png",
+                "faIcon": null,
+                "value": 100,
+                "locales": {
+                    "en": {"title": "English", "description": "B1 level"},
+                    "ru": {"title": "Английский", "description": "B1 level"}
+                }
+            },
+
+            {
+                "imageIconUrl": "images/flags/ru.png",
+                "faIcon": null,
+                "value": 100,
+                "locales": {
+                    "en": {"title": "Russian", "description": "Native speaker with excellent communication and writing skills."},
+                    "ru": {"title": "Русский", "description": "Носитель языка с отличными навыками общения и письма."}
+                }
+            }
+        ]
+    }
+}

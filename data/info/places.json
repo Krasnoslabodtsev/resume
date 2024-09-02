@@ -1,0 +1,119 @@
+{
+    "adobe": {
+        "logoUrl": "images/places/logo-adobe.png",
+        "faIcon": "fa fa-house-laptop",
+        "locales": {
+            "en": {"name": "Adobe Inc."}
+        }
+    },
+
+    "apple": {
+        "logoUrl": "images/places/logo-apple.png",
+        "faIcon": "fab fa-apple",
+        "locales": {
+            "en": {"name": "Apple Inc."}
+        }
+    },
+
+    "coursera": {
+        "logoUrl": "images/places/logo-coursera.png",
+        "faIcon": "fa fa-house-laptop",
+        "locales": {
+            "en": {"name": "Coursera"}
+        }
+    },
+
+    "forbes": {
+        "logoUrl": null,
+        "faIcon": "fa-solid fa-newspaper",
+        "locales": {
+            "en": {"name": "Forbes"}
+        }
+    },
+
+    "google": {
+        "logoUrl": null,
+        "faIcon": "fab fa-google",
+        "locales": {
+            "en": {"name": "Google"}
+        }
+    },
+
+    "harvard": {
+        "logoUrl": "images/places/logo-harvard.png",
+        "faIcon": "fas fa-university",
+        "locales": {
+            "en": {"name": "Harvard University"},
+            "es": {"name": "Universidad de Harvard"},
+            "fr": {"name": "Université Harvard"},
+            "zh": {"name": "哈佛大学"}
+        }
+    },
+
+    "paris": {
+        "logoUrl": "images/places/logo-paris-university.png",
+        "faIcon": "fas fa-university",
+        "locales": {
+            "en": {"name": "University of Paris"},
+            "es": {"name": "Universidad de París"},
+            "fr": {"name": "Université de Paris"},
+            "zh": {"name": "巴黎大学"}
+        }
+    },
+
+    "udacity": {
+        "logoUrl": "images/places/logo-udacity.png",
+        "faIcon": "fa fa-house-laptop",
+        "locales": {
+            "en": {"name": "Udacity"}
+        }
+    },
+
+    "altgtu": {
+        "logoUrl": "images/places/logo-altgtu.png",
+        "faIcon": "fa fa-house-laptop",
+        "locales": {
+            "en": {"name": "Altai State Technical University"}
+        }
+    },
+
+    "uxStudio": {
+        "logoUrl": "images/places/logo-ux-studio.png",
+        "faIcon": "fas fa-paint-brush",
+        "locales": {
+            "en": {"name": "UX Masters Studio"}
+        }
+    },
+
+    "bell": {
+        "logoUrl": "images/places/experience/bell.png",
+        "faIcon": "fas fa-paint-brush",
+        "locales": {
+            "en": {"name": "Bell Integrator"}
+        }
+    },
+
+    "forbank": {
+        "logoUrl": "images/places/experience/forbank.png",
+        "faIcon": "fas fa-paint-brush",
+        "locales": {
+            "en": {"name": "АО КБ \"ФорБанк\""}
+        }
+    },
+
+    "mvd": {
+        "logoUrl": "images/places/experience/mvd.svg",
+        "faIcon": "fas fa-paint-brush",
+        "locales": {
+            "en": {"name": "Главное управление МВД РФ по АК"}
+        }
+    },
+
+    "t-bank": {
+        "logoUrl": "images/places/experience/t-bank.png",
+        "faIcon": "fas fa-paint-brush",
+        "locales": {
+            "en": {"name": "Т-Банк"}
+        }
+    }
+}

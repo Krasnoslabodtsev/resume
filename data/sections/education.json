@@ -1,0 +1,44 @@
+{
+    "locales": {
+        "en": {
+            "title": "<span class='text-primary'>Educational</span> Background",
+            "description": "A glimpse into my academic trajectory and accomplishments."
+        },
+        "ru": {
+            "title": "Профессиональное <span class='text-primary'>образование</span>",
+            "description": "Дипломы о получении высшего образования в сфере ИТ"
+        }
+    },
+    "items": [
+        {
+            "id": "bachelor_altgtu",
+            "place": "@link{places.altgtu}",
+            "period": ["2013/09", "2017/06"],
+            "locales": {
+                "en": {
+                    "title": "Bachelor's in Computer Science and Engineering",
+                    "description": "Graduated with a strong foundation in computer science and engineering, specializing in information technology and computational systems."
+                },
+                "ru": {
+                    "title": "Бакалавриат по направлению 'Информатика и вычислительная техника'",
+                    "description": "Окончил факультет информационных технологий с фундаментальной подготовкой в области информатики и вычислительной техники."
+                }
+            }
+        },
+        {
+            "id": "masters_altgtu",
+            "place": "@link{places.altgtu}",
+            "period": ["2018/09", "2020/06"],
+            "locales": {
+                "en": {
+                    "title": "Master's in Software Engineering",
+                    "description": "Completed a comprehensive program in software engineering, focusing on advanced programming, software design, and project management."
+                },
+                "ru": {
+                    "title": "Магистратура по направлению 'Программная инженерия'",
+                    "description": "Завершил программу магистратуры с акцентом на программную инженерию, включающую углубленное программирование, проектирование программного обеспечения и управление проектами."
+                }
+            }
+        }
+    ]
+}

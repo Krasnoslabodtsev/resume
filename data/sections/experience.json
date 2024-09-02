@@ -1,0 +1,83 @@
+{
+    "locales": {
+        "en": {
+            "title": "<span class='text-primary'>Professional</span> Experience",
+            "description": "A look into my work experience and career journey."
+        },
+        "ru": {
+            "title": "<span class='text-primary'>Профессиональный</span> опыт",
+            "description": "Обзор моего опыта работы и карьерного пути."
+        }
+    },
+
+    "items": [
+        {
+            "id": "experience_item_1",
+            "place": "@link{places.t-bank}",
+            "period": ["2024/01", "now"],
+            "locales": {
+                "en": {
+                    "title": "Team Lead",
+                    "description": "Leading a team of 10 people with a mixed stack: Java and .NET. Task planning and prioritization from business, OKRs, people management, employee motivation, task control, quarterly reviews, hiring, and employee development. Kanban development management, monitoring key metrics, interaction, and agreements with adjacent teams at the platform level. Architectural development, implementation of critical tasks, approval of ADR and RFC. Main stack: Java 21, Spring Boot 2, PostgreSQL. Participation in internal meetups, knowledge sharing, discussions.",
+                    "tags": ["Java 21", "Spring Boot 2", "PostgreSQL", "People Management", "Kanban"]
+                },
+                "ru": {
+                    "title": "Руководитель группы разработки",
+                    "description": "Руководство командой из 10 человек, смешанный стэк: Java и .NET. Планирование и приоритезация задач от бизнеса, OKR, people management, мотивация сотрудников, контроль исполнения, квартальные ревью, найм и развитие сотрудников. Kanban-управление разработкой, контроль ключевых метрик, взаимодействие и договоренности со смежными командами на уровне платформы. Проработка архитектуры, реализация наиболее критичных задач, согласование ADR и RFC. Основной стек: Java 21, Spring Boot 2, PostgreSQL. Участие во внутренних митапах, шаринг знаний, дискуссии.",
+                    "tags": ["Java 21", "Spring Boot 2", "PostgreSQL", "People Management", "Kanban"]
+                }
+            }
+        },
+        {
+            "id": "experience_item_2",
+            "place": "@link{places.bell}",
+            "period": ["2020/10", "2023/10"],
+            "locales": {
+                "en": {
+                    "title": "Senior Developer",
+                    "description": "Corporate application design, legacy services scaling, development of various information systems 'turnkey' from the commitment point to project delivery to the customer (outsourced format). Main stack: Camunda 7, PostgreSQL, Spring Boot 2, Keycloak, Redis, Hazelcast, S3 storage. Conducting interviews (language section). Leading a team of 5 people (Scrum, internal project).",
+                    "tags": ["Camunda 7", "PostgreSQL", "Spring Boot 2", "Keycloak", "Scrum"]
+                },
+                "ru": {
+                    "title": "Ведущий разработчик",
+                    "description": "Проектирование корпоративных приложений, масштабирование легаси-сервисов, реализация различных информационных систем 'под ключ' от точки принятия обязательств до сдачи проекта заказчику (outsource формат). Основной стэк: Camunda 7, PostgreSQL, Spring Boot 2, Keycloak, Redis, Hazelcast, S3 storage. Проведение собеседований (языковая секция). Руководство командой из 5 человек (Scrum, внутренний проект).",
+                    "tags": ["Camunda 7", "PostgreSQL", "Spring Boot 2", "Keycloak", "Scrum"]
+                }
+            }
+        },
+        {
+            "id": "experience_item_3",
+            "place": "@link{places.forbank}",
+            "period": ["2018/09", "2020/10"],
+            "locales": {
+                "en": {
+                    "title": "Lead Programmer",
+                    "description": "Development and support of a new remote banking system (RBS) product. Client experience analysis, integration with third-party systems (NBKI, SMEV, FSSP, FNS, SPR, ABS, CryptoPro).",
+                    "tags": ["RBS", "NBKI", "SMEV", "FSSP", "FNS"]
+                },
+                "ru": {
+                    "title": "Ведущий программист",
+                    "description": "Разработка и поддержка нового продукта ДБО. Анализ клиентского опыта, интеграция со сторонними системами (НБКИ, СМЭВ, ФССП, ФНС, СПР, АБС, КриптоПро).",
+                    "tags": ["ДБО", "НБКИ", "СМЭВ", "ФССП", "ФНС"]
+                }
+            }
+        },
+        {
+            "id": "experience_item_4",
+            "place": "@link{places.mvd}",
+            "period": ["2017/09", "2018/09"],
+            "locales": {
+                "en": {
+                    "title": "Chief Information Specialist",
+                    "description": "Development of a regional law enforcement processing system.",
+                    "tags": ["Law Enforcement", "Information Systems", "Development"]
+                },
+                "ru": {
+                    "title": "Главный специалист по информационному обеспечению",
+                    "description": "Разработка региональной системы обработки правонарушений.",
+                    "tags": ["Правонарушения", "Информационные системы", "Разработка"]
+                }
+            }
+        }
+    ]
+}

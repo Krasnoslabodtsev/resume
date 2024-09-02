@@ -1,0 +1,82 @@
+{
+    "name": "Краснослабодцев Роман",
+    "profilePictureUrl": "images/pictures/avatar.jpg",
+
+    "locales": {
+        "en": {
+            "credits": "Designed by <a class='light' href='https://github.com/ryanbalieiro'>Ryan Balieiro</a>",
+            "role": "Senior Java dev"
+        },
+
+        "ru": {
+            "credits": "Дизайн <a class='light' href='https://github.com/ryanbalieiro'>Ryan Balieiro</a>",
+            "role": "Senior Java dev"
+        }
+    },
+
+    "contact": {
+        "address": {
+            "id": "address",
+            "value": "Москва, метро Шаболовская",
+            "valueShort": "Москва, метро Шаболовская",
+            "faIcon": "fa-solid fa-city",
+            "href": null
+        },
+
+        "email": {
+            "id": "email",
+            "value": "roma00712@gmail.com",
+            "valueShort": "roma00712@gmail.com",
+            "faIcon": "fa-solid fa-envelope",
+            "href": "mailto:roma00712@gmail.com"
+        },
+
+        "vk": {
+            "id": "vk",
+            "faIcon": "fa-brands fa-vk",
+            "value": "vk.com/rkrasnoslabodtsev",
+            "valueShort": "vk.com/rkrasnoslabodtsev",
+            "href": "https://vk.com/rkrasnoslabodtsev"
+        },
+
+        "github": {
+            "id": "github",
+            "value": "github.com/Krasnoslabodtsev",
+            "valueShort": "github.com/Krasnoslabodtsev",
+            "faIcon": "fa-brands fa-github",
+            "href": "https://github.com/Krasnoslabodtsev"
+        },
+
+        "instagram": {
+            "id": "instagram",
+            "value": "true.roman_",
+            "valueShort": "true.roman_",
+            "faIcon": "fa-brands fa-instagram",
+            "href": "https://www.instagram.com/true.roman_"
+        },
+
+        "linkedin": {
+            "id": "linkedin",
+            "value": "www.linkedin.com/in/roman-krasnoslabodtsev",
+            "valueShort": "www.linkedin.com/in/roman-krasnoslabodtsev",
+            "faIcon": "fa-brands fa-linkedin",
+            "href": "https://www.linkedin.com/in/roman-krasnoslabodtsev"
+        },
+
+        "phone": {
+            "id": "phone",
+            "value": "+7 (923) 649-5621",
+            "valueShort": "+7 (923) 649-5621",
+            "faIcon": "fa-solid fa-phone",
+            "href": "tel:+79236495621"
+        },
+
+        "telegram": {
+            "id": "telegram",
+            "value": "@nullptr12",
+            "valueShort": "@nullptr12",
+            "faIcon": "fa-brands fa-telegram",
+            "href": "https://t.me/nullptr12"
+        }
+    }
+}
