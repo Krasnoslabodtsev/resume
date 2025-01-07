@@ -2,14 +2,13 @@
     "locales": {
         "en": {
             "title": "<span class='text-primary'>Skill</span> Set",
-            "description": "Exploring the diverse range of skills I've acquired and developed:"
+            "description": "Exploring the diverse range of skills I've acquired and developed as a Senior Java Developer, Architect, and Team Lead."
         },
         "ru": {
             "title": "Набор <span class='text-primary'>Навыков</span>",
-            "description": ""
+            "description": "Мой обширный опыт в роли Senior Java-разработчика, архитектора и тимлида."
         }
     },
-
     "subcategories": [
         {
             "id": "abilities",
@@ -17,22 +16,28 @@
             "progress": null,
             "faIcon": "fa-solid fa-square",
             "locales": {
-                "en": {"title": null},
-                "ru": {"title": null}
+                "en": {
+                    "title": null
+                },
+                "ru": {
+                    "title": null
+                }
             }
         },
-
         {
             "id": "programming",
             "type": "grid",
             "progress": "number",
             "faIcon": "fa fa-code",
             "locales": {
-                "en": {"title": "Programming"},
-                "ru": {"title": "Программирование"}
+                "en": {
+                    "title": "Programming"
+                },
+                "ru": {
+                    "title": "Программирование"
+                }
             }
         },
-
         {
             "id": "languages",
             "type": "list",
@@ -46,12 +51,15 @@
             },
             "faIcon": "fa fa-language",
             "locales": {
-                "en": {"title": "Languages"},
-                "ru": {"title": "Языки"}
+                "en": {
+                    "title": "Languages"
+                },
+                "ru": {
+                    "title": "Языки"
+                }
             }
         }
     ],
-
     "items": {
         "abilities": [
             {
@@ -61,15 +69,14 @@
                 "locales": {
                     "en": {
                         "title": "Microservices",
-                        "description": "Expert in developing scalable and maintainable microservices architecture."
+                        "description": "Expert in designing and implementing scalable, fault-tolerant microservice architectures using Domain-Driven Design, CQRS, and Event Sourcing."
                     },
                     "ru": {
                         "title": "Микросервисы",
-                        "description": "Эксперт в разработке масштабируемой и поддерживаемой микросервисной архитектуры."
+                        "description": "Эксперт в проектировании и реализации масштабируемых, отказоустойчивых микросервисных архитектур с использованием DDD, CQRS и Event Sourcing."
                     }
                 }
             },
-
             {
                 "imageIconUrl": null,
                 "faIcon": "fas fa-cogs",
@@ -77,15 +84,14 @@
                 "locales": {
                     "en": {
                         "title": "API Development",
-                        "description": "Proficient in designing and implementing robust RESTful APIs."
+                        "description": "Proficient in designing robust RESTful and GraphQL APIs with a focus on security (OAuth2, JWT) and high performance."
                     },
                     "ru": {
                         "title": "Разработка API",
-                        "description": "Опыт в проектировании и внедрении надежных RESTful API."
+                        "description": "Опыт в проектировании надёжных RESTful и GraphQL API, уделяя особое внимание безопасности (OAuth2, JWT) и высокой производительности."
                     }
                 }
             },
-
             {
                 "imageIconUrl": null,
                 "faIcon": "fas fa-database",
@@ -93,15 +99,14 @@
                 "locales": {
                     "en": {
                         "title": "Database Management",
-                        "description": "Skilled in optimizing and managing PostgreSQL databases."
+                        "description": "Skilled in optimizing complex queries and managing both SQL (PostgreSQL, MySQL) and NoSQL (MongoDB, Cassandra) databases."
                     },
                     "ru": {
                         "title": "Управление Базами Данных",
-                        "description": "Опыт в оптимизации и управлении различными RDBMS и NoSQL-хранилищами."
+                        "description": "Эксперт в оптимизации сложных запросов и управлении SQL (PostgreSQL, MySQL) и NoSQL (MongoDB, Cassandra) базами данных."
                     }
                 }
             },
-
             {
                 "imageIconUrl": null,
                 "faIcon": "fas fa-cloud",
@@ -109,27 +114,26 @@
                 "locales": {
                     "en": {
                         "title": "Cloud Integration",
-                        "description": "Experience in deploying and scaling applications on cloud platforms."
+                        "description": "Extensive experience in deploying and scaling containerized applications on AWS, Google Cloud, and Azure."
                     },
                     "ru": {
                         "title": "Облачные решения",
-                        "description": "Развертывание и масштабирование приложений на облачных платформах."
+                        "description": "Обширный опыт развёртывания и масштабирования контейнеризированных приложений в AWS, Google Cloud и Azure."
                     }
                 }
             },
-
             {
                 "imageIconUrl": null,
                 "faIcon": "fas fa-vial",
                 "value": null,
                 "locales": {
                     "en": {
-                        "title": "Unit Testing",
-                        "description": "Expert in writing and executing unit tests to ensure code quality."
+                        "title": "Unit & Integration Testing",
+                        "description": "Proficient in JUnit, TestNG, and Testcontainers to ensure code quality and system reliability."
                     },
                     "ru": {
-                        "title": "Юнит-Тестирование",
-                        "description": "Эксперт в написании и выполнении юнит-тестов для обеспечения качества кода."
+                        "title": "Юнит- и Интеграционное Тестирование",
+                        "description": "Отличное владение JUnit, TestNG и Testcontainers для обеспечения качества кода и надёжности системы."
                     }
                 }
             },
@@ -138,8 +142,14 @@
                 "faIcon": "fas fa-project-diagram",
                 "value": null,
                 "locales": {
-                    "en": {"title": "Project Management", "description": "Experience leading Agile teams and managing complex projects."},
-                    "ru": {"title": "Управление Проектами", "description": "Опыт управления командами по Agile и сложными проектами."}
+                    "en": {
+                        "title": "Project Management",
+                        "description": "Experienced in leading Agile/Scrum teams, managing complex backlogs, and delivering successful software solutions."
+                    },
+                    "ru": {
+                        "title": "Управление Проектами",
+                        "description": "Опыт управления командами по Agile/Scrum, ведения сложных беклогов и успешной реализации программных решений."
+                    }
                 }
             },
             {
@@ -147,92 +157,363 @@
                 "faIcon": "fas fa-users",
                 "value": null,
                 "locales": {
-                    "en": {"title": "Team Leadership", "description": "Proven track record in leading development teams to success."},
-                    "ru": {"title": "Лидерство в Команде", "description": "Успешный опыт руководства командами разработчиков."}
+                    "en": {
+                        "title": "Team Leadership",
+                        "description": "Strong background in mentoring developers, fostering collaboration, and driving innovation within the team."
+                    },
+                    "ru": {
+                        "title": "Лидерство в Команде",
+                        "description": "Большой опыт наставничества разработчиков, выстраивания эффективной коммуникации и внедрения инноваций в коллективе."
+                    }
+                }
+            },
+            {
+                "imageIconUrl": null,
+                "faIcon": "fas fa-cube",
+                "value": null,
+                "locales": {
+                    "en": {
+                        "title": "Software Architecture",
+                        "description": "Hands-on experience designing distributed systems using advanced architectural patterns, ensuring scalability and resiliency."
+                    },
+                    "ru": {
+                        "title": "Архитектура ПО",
+                        "description": "Практический опыт проектирования распределённых систем с применением продвинутых архитектурных паттернов, обеспечивая масштабируемость и устойчивость."
+                    }
+                }
+            },
+            {
+                "imageIconUrl": null,
+                "faIcon": "fas fa-tools",
+                "value": null,
+                "locales": {
+                    "en": {
+                        "title": "DevOps & CI/CD",
+                        "description": "Proficient in designing and maintaining pipelines (Jenkins, GitLab CI, GitHub Actions), container orchestration (Kubernetes), and IaC (Terraform)."
+                    },
+                    "ru": {
+                        "title": "DevOps и CI/CD",
+                        "description": "Опыт проектирования и поддержки конвейеров (Jenkins, GitLab CI, GitHub Actions), оркестрации контейнеров (Kubernetes) и инфраструктуры как кода (Terraform)."
+                    }
                 }
             }
         ],
-
         "programming": [
             {
                 "imageIconUrl": null,
                 "faIcon": "fab fa-java",
                 "value": 100,
                 "locales": {
-                    "en": {"title": "Java", "description": "Experience Time: 10+ years"},
-                    "ru": {"title": "Java", "description": "Стаж: 10+ лет"}
+                    "en": {
+                        "title": "Java",
+                        "description": "Experience Time: 10+ years in enterprise Java development, including concurrency, performance tuning, and JVM internals."
+                    },
+                    "ru": {
+                        "title": "Java",
+                        "description": "10+ лет в энтерпрайз-разработке на Java, включая многопоточность, оптимизацию производительности и тонкости JVM."
+                    }
                 }
             },
-
             {
                 "imageIconUrl": null,
                 "faIcon": "fas fa-leaf",
                 "value": 95,
                 "locales": {
-                    "en": {"title": "Spring Framework", "description": "Experience Time: 8 years"},
-                    "ru": {"title": "Spring Framework", "description": "Стаж: 8 лет"}
+                    "en": {
+                        "title": "Spring Framework",
+                        "description": "Experience Time: 8 years working with Spring Boot, Spring Cloud, and reactive programming (WebFlux)."
+                    },
+                    "ru": {
+                        "title": "Spring Framework",
+                        "description": "8 лет работы со Spring Boot, Spring Cloud и реактивным программированием (WebFlux)."
+                    }
                 }
             },
-
             {
                 "imageIconUrl": null,
                 "faIcon": "fas fa-database",
                 "value": 85,
                 "locales": {
-                    "en": {"title": "PostgreSQL", "description": "Experience Time: 5 years"},
-                    "ru": {"title": "PostgreSQL", "description": "Стаж: 5 лет"}
+                    "en": {
+                        "title": "PostgreSQL",
+                        "description": "Experience Time: 5 years of designing efficient schemas, queries, and indexes to ensure high performance."
+                    },
+                    "ru": {
+                        "title": "PostgreSQL",
+                        "description": "5 лет проектирования оптимальных схем, запросов и индексов для достижения высокой производительности."
+                    }
                 }
             },
-
             {
                 "imageIconUrl": null,
                 "faIcon": "fas fa-box",
                 "value": 75,
                 "locales": {
-                    "en": {"title": "Docker", "description": "Experience Time: 3 years"},
-                    "ru": {"title": "Docker", "description": "Стаж: 3 года"}
+                    "en": {
+                        "title": "Docker",
+                        "description": "Experience Time: 3 years containerizing applications, optimizing images, and setting up multi-stage builds."
+                    },
+                    "ru": {
+                        "title": "Docker",
+                        "description": "4 года контейнеризации приложений, оптимизации образов и настройки многоэтапных сборок."
+                    }
                 }
             },
-
             {
                 "imageIconUrl": null,
                 "faIcon": "fas fa-stream",
                 "value": 70,
                 "locales": {
-                    "en": {"title": "Kafka", "description": "Experience Time: 3 years"},
-                    "ru": {"title": "Kafka", "description": "Стаж: 3 года"}
+                    "en": {
+                        "title": "Kafka",
+                        "description": "Experience Time: 3 years building event-driven systems with Kafka Streams and Connect."
+                    },
+                    "ru": {
+                        "title": "Kafka",
+                        "description": "Разработка событийных систем с использованием Kafka Streams и Connect."
+                    }
                 }
             },
-
             {
                 "imageIconUrl": null,
                 "faIcon": "fas fa-magnifying-glass",
                 "value": 90,
                 "locales": {
-                    "en": {"title": "Hibernate ORM", "description": "Experience Time: 5 years"},
-                    "ru": {"title": "Hibernate ORM", "description": "Стаж: 5 лет"}
+                    "en": {
+                        "title": "Hibernate ORM",
+                        "description": "Experience Time: 5 years focusing on performance optimization and advanced mapping techniques."
+                    },
+                    "ru": {
+                        "title": "Hibernate ORM",
+                        "description": "Уделю особое внимание оптимизации производительности и продвинутым техникам маппинга."
+                    }
+                }
+            },
+            {
+                "imageIconUrl": null,
+                "faIcon": "fas fa-database",
+                "value": 75,
+                "locales": {
+                    "en": {
+                        "title": "Oracle",
+                        "description": "Experience Time: 5 years, specializing in PL/SQL, query optimization, and large-scale data solutions."
+                    },
+                    "ru": {
+                        "title": "Oracle",
+                        "description": "Специализация в PL/SQL, оптимизации запросов и работе с крупномасштабными хранилищами данных."
+                    }
+                }
+            },
+            {
+                "imageIconUrl": null,
+                "faIcon": "fas fa-clipboard-check",
+                "value": 80,
+                "locales": {
+                    "en": {
+                        "title": "Camunda BPM",
+                        "description": "Experience Time: 3 years building process-driven solutions and orchestrating complex workflows."
+                    },
+                    "ru": {
+                        "title": "Camunda BPM",
+                        "description": "Разработка решений на основе бизнес-процессов и оркестрации сложных рабочих процессов."
+                    }
+                }
+            },
+            {
+                "imageIconUrl": null,
+                "faIcon": "fas fa-cloud-upload-alt",
+                "value": 80,
+                "locales": {
+                    "en": {
+                        "title": "Amazon S3",
+                        "description": "Experience Time: 3 years, leveraging AWS S3 for efficient data storage, retrieval, and backup solutions."
+                    },
+                    "ru": {
+                        "title": "S3 (Minio)",
+                        "description": "Использовал и интегрировал S3 для эффективного хранения, извлечения и резервного копирования данных."
+                    }
+                }
+            },
+            {
+                "imageIconUrl": null,
+                "faIcon": "fab fa-vuejs",
+                "value": 60,
+                "locales": {
+                    "en": {
+                        "title": "Vue.js",
+                        "description": "Experience Time: 2 years building reactive front-end applications with Vue CLI and Vuex."
+                    },
+                    "ru": {
+                        "title": "Vue.js",
+                        "description": "Разработка реактивных фронтенд-приложений с использованием Nuxt и Vuetify"
+                    }
+                }
+            },
+            {
+                "imageIconUrl": null,
+                "faIcon": "fas fa-code-branch",
+                "value": 85,
+                "locales": {
+                    "en": {
+                        "title": "Algorithms & Data Structures",
+                        "description": "Extensive knowledge of time/space complexities, classic and advanced data structures, and efficient problem-solving."
+                    },
+                    "ru": {
+                        "title": "Алгоритмы и структуры данных",
+                        "description": "Глубокое знание временной и пространственной сложности, классических и продвинутых структур данных, эффективных подходов к решению задач."
+                    }
+                }
+            },
+            {
+                "imageIconUrl": null,
+                "faIcon": "fas fa-robot",
+                "value": 50,
+                "locales": {
+                    "en": {
+                        "title": "AI",
+                        "description": "Foundational knowledge of machine learning algorithms, using libraries like TensorFlow, and integrating AI services."
+                    },
+                    "ru": {
+                        "title": "Нейросети, глубокое обучение",
+                        "description": "Трогал руками все современные модельки, постоянно мониторю hurrigan face, обучаю модели для pet-проектов (могу показать)"
+                    }
+                }
+            },
+            {
+                "imageIconUrl": null,
+                "faIcon": "fas fa-file-image",
+                "value": 60,
+                "locales": {
+                    "en": {
+                        "title": "OCR",
+                        "description": "Experience using Tesseract and AWS Textract for document processing and text extraction."
+                    },
+                    "ru": {
+                        "title": "OCR",
+                        "description": "Опыт использования Tesseract для обработки документов и извлечения текста."
+                    }
+                }
+            },
+            {
+                "imageIconUrl": null,
+                "faIcon": "fas fa-exchange-alt",
+                "value": 70,
+                "locales": {
+                    "en": {
+                        "title": "RabbitMQ",
+                        "description": "Experience Time: 2 years implementing messaging solutions and asynchronous communication for microservices."
+                    },
+                    "ru": {
+                        "title": "RabbitMQ",
+                        "description": "Создание решений для обмена сообщениями и асинхронной коммуникации в микросервисной архитектуре."
+                    }
+                }
+            },
+            {
+                "imageIconUrl": null,
+                "faIcon": "fas fa-database",
+                "value": 60,
+                "locales": {
+                    "en": {
+                        "title": "ClickHouse",
+                        "description": "Experience Time: 1 year working with high-performance OLAP databases and real-time analytics."
+                    },
+                    "ru": {
+                        "title": "ClickHouse",
+                        "description": "Работа с высокопроизводительными OLAP-базами данных и аналитикой в реальном времени."
+                    }
+                }
+            },
+            {
+                "imageIconUrl": null,
+                "faIcon": "fas fa-soap",
+                "value": 70,
+                "locales": {
+                    "en": {
+                        "title": "SOAP Services",
+                        "description": "Hands-on experience building and consuming SOAP-based web services with WSDL and XSD schemas."
+                    },
+                    "ru": {
+                        "title": "SOAP-сервисы",
+                        "description": "Практический опыт разработки и использования SOAP-веб-сервисов с WSDL и XSD схемами."
+                    }
+                }
+            },
+            {
+                "imageIconUrl": null,
+                "faIcon": "fab fa-python",
+                "value": 65,
+                "locales": {
+                    "en": {
+                        "title": "Python",
+                        "description": "Experience Time: 2 years creating scripts and automation, including data parsing and web scraping."
+                    },
+                    "ru": {
+                        "title": "Python",
+                        "description": "Стаж: 3 года написания скриптов и автоматизации, включая парсинг данных и веб-скрейпинг."
+                    }
+                }
+            },
+            {
+                "imageIconUrl": null,
+                "faIcon": "fas fa-chart-line",
+                "value": 70,
+                "locales": {
+                    "en": {
+                        "title": "Prometheus & Grafana & ELK",
+                        "description": "Implemented metrics collection and visualization for distributed systems monitoring and alerting."
+                    },
+                    "ru": {
+                        "title": "Prometheus и Grafana, ELK",
+                        "description": "Реализовывал сбор метрик и визуализацию для мониторинга распределённых систем и организации алертинга."
+                    }
+                }
+            },
+            {
+                "imageIconUrl": null,
+                "faIcon": "fas fa-drafting-compass",
+                "value": 65,
+                "locales": {
+                    "en": {
+                        "title": "Apache Hadoop",
+                        "description": "Worked on big data processing workflows using HDFS, MapReduce, and Hadoop ecosystem tools."
+                    },
+                    "ru": {
+                        "title": "Apache Hadoop",
+                        "description": "Работа с большими данными с использованием HDFS, MapReduce и инструментов экосистемы Hadoop."
+                    }
                 }
             }
         ],
-
         "languages": [
             {
                 "imageIconUrl": "images/flags/en.png",
                 "faIcon": null,
                 "value": 100,
                 "locales": {
-                    "en": {"title": "English", "description": "B1 level"},
-                    "ru": {"title": "Английский", "description": "B1 level"}
+                    "en": {
+                        "title": "English",
+                        "description": "B1 level"
+                    },
+                    "ru": {
+                        "title": "Английский",
+                        "description": "B2 level, свободно читаю и говорю, готовлюсь с IELTS"
+                    }
                 }
             },
-
             {
                 "imageIconUrl": "images/flags/ru.png",
                 "faIcon": null,
                 "value": 100,
                 "locales": {
-                    "en": {"title": "Russian", "description": "Native speaker with excellent communication and writing skills."},
-                    "ru": {"title": "Русский", "description": "Носитель языка с отличными навыками общения и письма."}
+                    "en": {
+                        "title": "Russian",
+                        "description": "Native speaker with excellent communication and writing skills."
+                    },
+                    "ru": {
+                        "title": "Русский",
+                        "description": "Носитель языка с отличными навыками общения и письма."
+                    }
                 }
             }
         ]

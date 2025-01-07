@@ -4,12 +4,10 @@
 
     "locales": {
         "en": {
-            "credits": "Designed by <a class='light' href='https://github.com/ryanbalieiro'>Ryan Balieiro</a>",
             "role": "Senior Java dev"
         },
 
         "ru": {
-            "credits": "Дизайн <a class='light' href='https://github.com/ryanbalieiro'>Ryan Balieiro</a>",
             "role": "Senior Java dev"
         }
     },
